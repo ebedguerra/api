@@ -40,19 +40,19 @@
           "id": 7,
           "title": "Spirited Away",
           "description": "A sullen young girl wanders into a world of spirits. When her parents undergo a transformation into pigs by a witch, Chihiro takes it upon herself to free them and return to the human world.",
-          "genre": "Animation, Family, Fantasy"
+          "genre": "Action"
         },
         {
           "id": 8,
           "title": "Parasite",
           "description": "The members of a poor family scheme to become employed by a wealthy family. All is not as it seems as secrets are unraveled, unleashing a sequence of violent events.",
-          "genre": "Comedy, Drama, Thriller"
+          "genre": "Comedy"
         },
         {
           "id": 9,
           "title": "The Lord of the Rings: The Return of the King",
           "description": "Gandalf and Aragorn lead the World of Men into a final battle against Sauron's evil forces. Frodo and Sam must travel deep into Mordor to destroy the One Ring and finally end the threat of Sauron.",
-          "genre": "Adventure, Drama, Fantasy"
+          "genre": "Action"
         }
       ],
     "genres": ["Drama", "Action", "Crime"]
